@@ -41,9 +41,6 @@
   background: var(--cor-0);
 }
 
-.orcamento-produto label {
-}
-
 #bikcraft:checked ~ #orcamento-bikcraft,
 #seguro:checked ~ #orcamento-seguro {
   display: block;
